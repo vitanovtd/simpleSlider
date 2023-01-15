@@ -1,0 +1,2 @@
+# Vanilla-Javascript
+ simpleSlider
